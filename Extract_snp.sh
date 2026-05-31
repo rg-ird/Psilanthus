@@ -1,6 +1,5 @@
 #!/bin/bash
 
-module load bioinfo-itrop
 module load samtools/1.22.1
 module load bcftools/1.22
 module load htslib/1.19
